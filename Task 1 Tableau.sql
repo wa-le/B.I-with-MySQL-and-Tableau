@@ -2,7 +2,7 @@ use employees_mod;
 
 
 
-# Create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990. 
+## Create a visualization that provides a breakdown between the male and female employees working in the company each year, starting from 1990. 
 
 select * from t_employees
 limit 10;
